@@ -1,0 +1,27 @@
+http://localhost:3002/addNews
+
+{
+    "heading": "heading11111",
+    "content": "content",
+    "date": "11-11-90",
+    "place": "place"
+}
+
+http://localhost:3002/getNews
+
+
+http://localhost:3000/api/user/register
+
+{
+   
+    "name":"bhupendra",
+    "email": "bhupendra@gmail.com",
+    "password":"123456"
+}
+
+
+get one news with id
+http://localhost:5000/api/user/news/5fc6481dd3e28d05535e044a
+
+with put and delete
+http://localhost:5000/api/user/news/5fc6667e5cec6100174a0b3f
